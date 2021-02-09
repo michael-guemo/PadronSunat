@@ -5,9 +5,9 @@ ejecutar en ese orden
 
 **************para el padron reducido**************
 
-1-PadronDescargar.bat
-2-PadronDescomprimir.bat
-3-PadronLLenarDatosSQL.bat === > modificar este archivo con los datos de su servidor:
+1.-PadronDescargar.bat
+2.-PadronDescomprimir.bat
+3.-PadronLLenarDatosSQL.bat === > modificar este archivo con los datos de su servidor:
 
 sql server= nombre de servidor
 Set dataBs= base de datos 
@@ -16,9 +16,9 @@ Set passwd= password sql server
 
 **************para el padron de sucursales**************
 
-1-SucursalesDescargar.bat
-2-SucursalesDescomprimir.bat
-3-SucursalesLLenarDatosSQL.bat === > modificar este archivo con los datos de su servidor:
+1.-SucursalesDescargar.bat
+2.-SucursalesDescomprimir.bat
+3.-SucursalesLLenarDatosSQL.bat === > modificar este archivo con los datos de su servidor:
 
 sql server= nombre de servidor
 Set dataBs= base de datos 
