@@ -14,7 +14,7 @@ Set dataBs= base de datos
 Set userId= usuario sql server
 Set passwd= password sql server
 
-**************para el padron de sucursales*************
+**************para el padron de sucursales**************
 
 1-SucursalesDescargar.bat
 2-SucursalesDescomprimir.bat
@@ -27,7 +27,7 @@ Set passwd= password sql server
 
 
 # «El conocimiento no tiene ningún poder si no puede ser compartido»
-************** (José A. Pallavicini)**************
+**************(José A. Pallavicini)**************
 
 
 
