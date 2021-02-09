@@ -5,9 +5,9 @@ ejecutar en ese orden
 
 **************para el padron reducido**************
 
-1.-PadronDescargar.bat
-2.-PadronDescomprimir.bat
-3.-PadronLLenarDatosSQL.bat === > modificar este archivo con los datos de su servidor:
+1.PadronDescargar.bat
+1.PadronDescomprimir.bat
+1.PadronLLenarDatosSQL.bat === > modificar este archivo con los datos de su servidor:
 
 sql server= nombre de servidor
 Set dataBs= base de datos 
